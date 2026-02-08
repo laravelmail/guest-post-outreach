@@ -1,0 +1,138 @@
+{
+  "body": {
+    "rows": [
+      {
+        "cells": [
+          {
+            "contents": [
+              {
+                "type": "text",
+                "text": "Dear Editor,"
+              },
+              {
+                "type": "line"
+              }
+            ]
+          },
+          {
+            "style": "padding-right:30px; ",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Nam sodales sed nisi in posuere."
+              },
+              {
+                "type": "line"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "cells": [
+          {
+            "contents": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "\u00a0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "cells": [
+          {
+            "contents": [
+              {
+                "type": "text",
+                "text": "Fusce a felis at tellus pulvinar lacinia.\n"
+              },
+              {
+                "type": "line"
+              }
+            ]
+          },
+          {
+            "style": "padding-right:30px; ",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Vivamus placerat tortor molestie, porttitor ex sit amet, rutrum mi.\n"
+              },
+              {
+                "type": "line"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "cells": [
+          {
+            "contents": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "\u00a0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "cells": [
+          {
+            "contents": [
+              {
+                "type": "text",
+                "text": "Donec sit amet auctor dolor, efficitur facilisis lorem. Sed tempor nisl ac risus viverra, et scelerisque erat sagittis.\n"
+              },
+              {
+                "type": "line"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "cells": [
+          {
+            "contents": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "\u00a0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "cells": [
+          {
+            "contents": [
+              {
+                "type": "text",
+                "text": "If you are interested, please let me know your availability and any specific requirements for the article. I am looking forward to publishing in your esteemed publication.\n"
+              },
+              {
+                "type": "line"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
